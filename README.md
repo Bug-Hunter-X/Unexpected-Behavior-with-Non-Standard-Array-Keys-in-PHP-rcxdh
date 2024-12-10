@@ -1,0 +1,1 @@
+This repository demonstrates a common but easily overlooked error in PHP related to using non-standard (non-integer, non-string) array keys.  The `bug.php` file shows the problematic code, while `bugSolution.php` offers a solution and explanation.
